@@ -15,7 +15,6 @@
   * [Musique](commandes/commandes/musique.md)
   * [Informations](commandes/commandes/informations.md)
   * [Modération](commandes/commandes/moderation.md)
-  * [Utilitaires](commandes/commandes/utilitaires.md)
 
 ## Informations <a href="#Informations" id="Informations"></a>
 

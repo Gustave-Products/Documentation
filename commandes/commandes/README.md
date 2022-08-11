@@ -4,23 +4,10 @@ description: Ici je vous donnerais des infos générales concernant les commande
 
 # Commandes
 
-{% hint style="info" %}
-Dans les menus du dessous je donne plus de précision commandes par commandes. Attention quand je donnerais mes exemples je ne mettrais pas de préfixe pensez donc bien à le mettre de votre côté ou le bot ne réagira pas.
-{% endhint %}
+Gustave est accessible seulement via les slash commandes. Ces commandes ont plusieurs avantages premièrement à l'utilisation par exemple elles limitent les erreurs de manipulation de l'utilisateur et vous n'avez pas besoin de retenir le préfixe du bot mais elles en ont aussi du côté du développeur en facilitant plusieurs choses comme la récupération de données sans compter le fait qu'elles offrent des fonctionnalités très intéressantes comme l'auto-complétion.
 
-Les commandes du bot se divisent en deux catégories distinctes:
+Pour ces raisons j'ai décidé qu'il était plus intéressant de se baser sur les slash commands pour Gustave. Pour les utiliser c'est très simple, écrivez simplement / sur Discord et choisissez celle qu'il vous faut.
 
-1. Les commandes basiques&#x20;
-2. Les commandes de slash
+![Menu des commandes de Gustave](<../../.gitbook/assets/Screenshot 2022-08-11 18.50.25.png>)
 
-### Les commandes basiques
-
-Ce sont les commandes que vous retrouverez sur tout les bots c'est à dire les commandes qui fonctionnent à l'aide d'un préfixe et d'un mot clé.
-
-{% hint style="info" %}
-Exemple: .help ouvrira le menu déroulant d'aide.
-{% endhint %}
-
-### Les commandes de slash&#x20;
-
-Ces commandes sont là depuis bien moins de temps. En effet elles ont été implémentées avec la dernière grosse mise à jour des API de discord et à pour but de faire des commandes assez intuitives pour les membres du serveur. En général vous aurez une description pour chaque commandes directement en commençant à la taper donc nous nous y attarderons pas.
+Vous avez d'ailleurs une liste détaillée des commandes dans les pages suivantes.
