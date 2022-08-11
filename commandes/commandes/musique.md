@@ -126,18 +126,3 @@ Aucun - Désactive la boucle de lecture sur le serveur.
 
 </details>
 
-<details>
-
-<summary>Pause</summary>
-
-#### Description
-
-Permet de mettre la lecture en pause ou de la reprendre si elle est déjà en pause.
-
-#### Arguments
-
-```
-Aucun - Coupe / reprend la lecture en cours.
-```
-
-</details>

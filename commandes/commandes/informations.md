@@ -10,17 +10,17 @@ Les commandes sont à préfixer d'un / . Dans les arguments les arguments entour
 
 <details>
 
-<summary>Stats</summary>
+<summary>Botinfo</summary>
 
-#### Description
 
-Cette commande permet d'afficher les statistiques du bot.
 
-#### Arguments
+</details>
 
-```
-Aucun - Envoie l'embed contenant les stats du bot.
-```
+<details>
+
+<summary>Help</summary>
+
+
 
 </details>
 
@@ -28,31 +28,23 @@ Aucun - Envoie l'embed contenant les stats du bot.
 
 <summary>Ping</summary>
 
-#### Description
 
-Cette commande renvoie le ping du bot.
-
-#### Arguments
-
-```
-Aucun - Envoie l'embed contenant le ping du bot.
-```
 
 </details>
 
 <details>
 
-<summary>Bug</summary>
+<summary>Politique </summary>
 
-#### Description
 
-Cette commande permet de signaler un bug au support du bot.
 
-#### Arguments
+</details>
 
-```
-Aucun - Affiche un modal de signalement de bugs.
-```
+<details>
+
+<summary>Report</summary>
+
+
 
 </details>
 
@@ -60,45 +52,15 @@ Aucun - Affiche un modal de signalement de bugs.
 
 <summary>Userinfo</summary>
 
-#### Description
 
-Cette commande permet d'afficher des informations sur un utilisateur.
-
-#### Arguments
-
-```
-[utilisateur] <Membre | ID> - Renvoie les informations sur l'utilisateur.
-```
-
-_Sans arguments, cette commande renvoie les informations sur l'utilisateur qui appelle cette commande._
 
 </details>
 
 <details>
 
-<summary>Server</summary>
+<summary>Serverinfo</summary>
 
-#### Description
 
-Cette commande permet de récupérer des informations sur un serveur.
-
-#### Arguments
-
-* Server info&#x20;
-
-```
-[id] <ID> - Renvoie des informations sur un serveur.
-```
-
-_Si aucun argument n'est fournit le bot renvoie les informations du serveur actuel._
-
-* Server badges
-
-```
-[membre] <Membre> - Renvoie les badges du membre selectionné.
-```
-
-_Sans arguments cette commande renvoie les badges du serveur entier._
 
 </details>
 
@@ -106,52 +68,14 @@ _Sans arguments cette commande renvoie les badges du serveur entier._
 
 <summary>Suggestion</summary>
 
-#### Description
 
-Cette commande permet de faire une suggestion au support du bot.
-
-#### Arguments
-
-```
-Aucun - Ouvre un modal de suggestion.
-```
 
 </details>
 
 <details>
 
-<summary>Roleinfo</summary>
+<summary>Invite</summary>
 
-#### Description
 
-Cette commande permet de récupérer des informations sur un rôle.
-
-#### Arguments
-
-```
-role <Role> - Renvoie des informations sur le rôle.
-```
-
-</details>
-
-<details>
-
-<summary>Aralosbd</summary>
-
-#### Description
-
-&#x20;Cette commande permet de récupérer des informations sur le site [Aralos BD](https://aralosbd.fr/).
-
-#### Arguments
-
-```
-[auteur] <Texte> - Le nom d'auteur que vous recherchez.
-```
-
-```
-[œuvre] <Texte> - Le nom d'œuvre que vous recherchez.
-```
-
-_Ces deux arguments bénéficient d'une auto-complétion. Ils vous afficherons des résultats pendant que vous taperez._&#x20;
 
 </details>
