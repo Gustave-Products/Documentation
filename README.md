@@ -12,4 +12,8 @@ description: >-
 * La documentation est découpé en différentes catégories.
 * Les commandes sont dans des menus déroulants. Dans chaque menu déroulant vous retrouverez: une description de la commande, les arguments nécessaires à son fonctionnement et parfois des notes.
 
-#### <mark style="color:orange;"></mark>[<mark style="color:orange;">Si besoin d'aide retrouvez nous sur le support en cliquant ici.</mark>](https://discord.gg/6qzkefEvRB)<mark style="color:orange;"></mark>
+#### Si besoin d'aide rejoigner le support.
+
+{% embed url="https://discord.gg/6qzkefEvRB" %}
+Rejoindre le support
+{% endembed %}
