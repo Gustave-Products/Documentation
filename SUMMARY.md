@@ -9,12 +9,12 @@
 
 ## Commandes
 
-* [Slash Commandes](commandes/slash-commandes/README.md)
-  * [Configuration](commandes/slash-commandes/configuration.md)
-  * [Fun](commandes/slash-commandes/fun.md)
-  * [Musique](commandes/slash-commandes/musique.md)
-  * [Informations](commandes/slash-commandes/informations.md)
-  * [Modération](commandes/slash-commandes/moderation.md)
+* [Slash Commandes](commandes/commandes/README.md)
+  * [Configuration](commandes/commandes/configuration.md)
+  * [Fun](commandes/commandes/fun.md)
+  * [Musique](commandes/commandes/musique.md)
+  * [Informations](commandes/commandes/informations.md)
+  * [Modération](commandes/commandes/moderation.md)
 
 ## Informations <a href="#Informations" id="Informations"></a>
 

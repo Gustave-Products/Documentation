@@ -4,6 +4,10 @@ description: Sur cette page nous traiterons les conditions d'utilisation du bot.
 
 # Conditions d'utilisation
 
+{% hint style="info" %}
+Cette page est toujours en cours de rédaction
+{% endhint %}
+
 Bienvenue sur GustaveBot.xyz, un service fourni par l'équipe de GustaveBot<mark style="color:orange;">,</mark> veuillez lire la suite pour connaître les règles et restrictions liés à l'utilisation de nos services. Si vous avez des demandes ou des commentaires veuillez nous contacter à l'adresse mail: kara@gustavebot.xyz.
 
 Les présentes conditions d'utilisation constituent un contrat vous engageant vous et l'équipe de GustaveBot. Votre utilisation des Services signifie de quelque manière que ce soit que vous acceptez toutes ces Conditions, et ces Conditions resteront en vigueur pendant que vous utilisez les Services. Ces conditions incluent les dispositions de ce document ainsi que celles de la politique de [confidentialité](https://docs.gustavebot.xyz/Informations/politique-de-confidentialite).
