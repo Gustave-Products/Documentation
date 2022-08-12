@@ -1,8 +1,8 @@
 ---
-description: Ici je vous donnerais des infos générales concernant les commandes.
+description: Ici je vous donnerais des infos générales concernant les slash commandes.
 ---
 
-# Commandes
+# Slash Commandes
 
 Gustave est accessible seulement via les slash commandes. Ces commandes ont plusieurs avantages premièrement à l'utilisation par exemple elles limitent les erreurs de manipulation de l'utilisateur et vous n'avez pas besoin de retenir le préfixe du bot mais elles en ont aussi du côté du développeur en facilitant plusieurs choses comme la récupération de données sans compter le fait qu'elles offrent des fonctionnalités très intéressantes comme l'auto-complétion.
 
