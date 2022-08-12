@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue !](README.md)
+* [🥳 Bienvenue !](README.md)
 
 ## Premiers pas
 

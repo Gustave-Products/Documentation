@@ -5,10 +5,11 @@ description: >-
   importantes.
 ---
 
-# Bienvenue !
+# 🥳 Bienvenue !
 
-Cette documentation sera découpée en plusieurs parties. Premièrement nous allons apprendre comment configurer le bot sur votre serveur. Ensuite nous verrons quelles sont les différentes commandes disponibles avec ce bot. Pour finir je vous donnerais des informations sur ce bot.
+#### Voici quelques points sur comment est écrite la documentation:
 
-Si vous avez une question hésitez pas à rejoindre le serveur support:
+* La documentation est découpé en différentes catégories.
+* Les commandes sont dans des menus déroulants. Dans chaque menu déroulant vous retrouverez: une description de la commande, les arguments nécessaires à son fonctionnement et parfois des notes.
 
-[https://discord.gg/6qzkefEvRB](https://discord.gg/6qzkefEvRB)
+#### <mark style="color:orange;"></mark>[<mark style="color:orange;">Si besoin d'aide retrouvez nous sur le support en cliquant ici.</mark>](https://discord.gg/6qzkefEvRB)<mark style="color:orange;"></mark>
